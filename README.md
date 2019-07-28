@@ -19,7 +19,7 @@ https://forum.processing.org/two/discussion/17427/interactive-video-with-mouse-f
 
 The second code made the interaction between Processing and the video possible. It sets a specific frame depending on the position of the mouse in the display. 
 
-Combining these two codes made my project possible: Using your Kinect as a regulator for videos. 
+With big help from my friend @gnampfelix I managed to combine these two codes and realize my project: Using your Kinect as a regulator for videos. 
 
 "In the beginning you are far from the Kinect and therefore far from the wall."
 The video starts at frame 0, the beginning of the video if you are the farest from the device.
@@ -28,6 +28,8 @@ The video starts at frame 0, the beginning of the video if you are the farest fr
 The video plays forward if you apprach the device. It stops if you stop. It play backwards if you walk backwards. 
 
 With this, I tried to distill the sensation of beeing completely at the mercy of nature. Observing the wall, you feel respect, maybe fear. But climbing up, you are only by yourself. Seeing nothing but the way up. 
+
+
 
 
 
